@@ -10,7 +10,7 @@ sites_supported:
 ---
 
 
-# Vamo los pibes
+# Vamo los pibe
 
 El QR es un **código único vinculado a tu cuenta de Mercado Pago** que te permite recibir pagos de un modo simple, rápido y seguro.
 
